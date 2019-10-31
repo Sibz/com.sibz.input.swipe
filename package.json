@@ -1,0 +1,11 @@
+{
+  "name": "com.sibz.input.swipe",
+  "version": "1.0.0",
+  "displayName": "Swipe Input Gesture",
+  "description": "This is an example package",
+  "unity": "2020.1",
+  "unityRelease": "0a9",
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.0"
+ } 
+}
