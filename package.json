@@ -1,6 +1,6 @@
 {
   "name": "com.sibz.input.swipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Sibz: Swipe Input Gesture",
   "description": "Input Binding and interaction to allow easy detection of swipes",
   "unity": "2020.1",
