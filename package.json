@@ -6,6 +6,5 @@
   "unity": "2020.1",
   "unityRelease": "0a9",
   "dependencies": {
-    "com.unity.inputsystem": "1.0.1"
  } 
 }
